@@ -8,7 +8,7 @@ Uma aplicação simples de calculadora desenvolvida em React Native.
 ## Instalação
 1. Clone o repositório.
    ```bash
-   git clone https://github.com/Felipe020507/calculadora-react-native.git
+   git clone https://github.com/Fcasale-dev/calculadora-react-native.git
 
 ## Instale as dependências.
 npm install
